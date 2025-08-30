@@ -9,8 +9,6 @@ Implements a spell checker that loads a dictionary into memory and checks the sp
 
 ## Demo
 
-### Official CS50 Demo
-
 ![Speller Demo](docs/demo.gif)
 
 
@@ -38,15 +36,19 @@ Run the program:
 
 ```
 speller/
-├── speller.c        # Main program
-├── dictionary.c     # Dictionary implementation
-├── dictionary.h     # Dictionary header
-├── texts/           # Example text files
-├── dictionaries/    # Example dictionaries
-├── README.md
-└── LICENSE
+├── speller.c           # Main program
+├── dictionary.c        # Dictionary implementation
+├── dictionary.h        # Dictionary header
+├── texts.zip           # Example text files
+└── dictionaries/       # Example dictionaries
+LICENSE
+README.md
 ```
 
 ## License
 
 MIT License. See [LICENSE](LICENSE) for details.
+
+## Contact
+
+AmirMahdi Tizchang – [GitHub](https://github.com/AmirMahdi-Tizchang)
